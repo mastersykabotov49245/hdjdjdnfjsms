@@ -1,4 +1,4 @@
-BOT_TOKEN = ""
+BOT_TOKEN = "8893361270:AAF8kJgzBX_2P5BKwHtWl18slL-FNObQgUw"
 
 import asyncio
 import logging
