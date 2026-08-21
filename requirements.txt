@@ -1,2 +1,2 @@
- aiogram>=3.23.0
+aiogram>=3.23.0
 aiofiles>=23.2.1
